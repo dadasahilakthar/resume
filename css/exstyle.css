@@ -1,0 +1,10 @@
+#cards{
+  text-align: center;
+  justify-content: space-around;
+  display: flex;
+}
+.data{
+  background-color: black;
+  color: white;
+  margin: 1%;
+}
